@@ -21,5 +21,4 @@ An elegant, responsive site for a balance and wellness company.
 - [Manage Landing Page](https://cheerful-starburst-efeb7c.netlify.app/): A clean landing page for a management tool.
 
 ## 📫 Contact
-- [GitHub](https://github.com/paul-mihaila)
 - Email: [paulmihaila98@gmail.com](mailto:aulmihaila98@gmail.com)
