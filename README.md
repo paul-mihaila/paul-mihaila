@@ -9,16 +9,16 @@ I’m a Front-End Developer passionate about creating clean, responsive, and use
 - Git | GitHub
 
 ## 💼 Projects
-### [Germanistik.ro](https://germanistik.ro/)
+### <a href="https://germanistik.ro/" target="_blank">Germanistik.ro</a>
 A professional website for German language education and resources.
 
-### [Ballancial.ro](https://ballancial.ro/ro)
+### <a href="https://ballancial.ro/ro" target="_blank">Ballancial.ro</a>
 An elegant, responsive site for a balance and wellness company.
 
 ### Small Projects
-- [CSS Grid Testimonials Page](https://css-grid-testimonials-page.vercel.app/) Repository:(https://github.com/paul-mihaila/css-grid-testimonials-page): A design-focused project showcasing responsive layouts.
-- [Recipe Page](https://github.com/paul-mihaila/recipe-page): A static recipe webpage built with modern web practices.
-- [Manage Landing Page](https://github.com/paul-mihaila/manage-landing-page): A clean landing page for a management tool.
+- <a href="https://css-grid-testimonials-page.vercel.app/" target="_blank">CSS Grid Testimonials Page</a>: A design-focused project showcasing responsive layouts.
+- <a href="https://github.com/paul-mihaila/recipe-page" target="_blank">Recipe Page</a>: A static recipe webpage built with modern web practices.
+- <a href="https://github.com/paul-mihaila/manage-landing-page" target="_blank">Manage Landing Page</a>: A clean landing page for a management tool.
 
 ## 📫 Contact
 - [GitHub](https://github.com/paul-mihaila)
