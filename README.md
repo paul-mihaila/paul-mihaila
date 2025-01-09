@@ -16,7 +16,7 @@ A professional website for German language education and resources.
 An elegant, responsive site for a balance and wellness company.
 
 ### Small Projects
-- [CSS Grid Testimonials Page](https://github.com/paul-mihaila/css-grid-testimonials-page): A design-focused project showcasing responsive layouts.
+- [CSS Grid Testimonials Page](https://css-grid-testimonials-page.vercel.app/) Repository:(https://github.com/paul-mihaila/css-grid-testimonials-page): A design-focused project showcasing responsive layouts.
 - [Recipe Page](https://github.com/paul-mihaila/recipe-page): A static recipe webpage built with modern web practices.
 - [Manage Landing Page](https://github.com/paul-mihaila/manage-landing-page): A clean landing page for a management tool.
 
