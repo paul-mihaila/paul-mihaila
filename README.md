@@ -23,3 +23,8 @@ An elegant, responsive site for a balance and wellness company.
 ## 📫 Contact
 - [GitHub](https://github.com/paul-mihaila)
 - Email: [paulmihaila98@gmail.com](mailto:aulmihaila98@gmail.com)
+
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
