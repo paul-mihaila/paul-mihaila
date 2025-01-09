@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Paul Mihaila 👋
 
-<!--
-**paul-mihaila/paul-mihaila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+I’m a Front-End Developer passionate about creating clean, responsive, and user-friendly web designs. 
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML | CSS | TailwindCSS
+- JavaScript | Vue.js
+- Git | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+### [Germanistik.ro](https://germanistik.ro/)
+A professional website for German language education and resources.
+
+### [Ballancial.ro](https://ballancial.ro/ro)
+An elegant, responsive site for a balance and wellness company.
+
+### Small Projects
+- [CSS Grid Testimonials Page](https://github.com/paul-mihaila/css-grid-testimonials-page): A design-focused project showcasing responsive layouts.
+- [Recipe Page](https://github.com/paul-mihaila/recipe-page): A static recipe webpage built with modern web practices.
+- [Manage Landing Page](https://github.com/paul-mihaila/manage-landing-page): A clean landing page for a management tool.
+
+## 📫 Contact
+- [GitHub](https://github.com/paul-mihaila)
+- Email: [paulmihaila98@gmail.com](mailto:aulmihaila98@gmail.com)
