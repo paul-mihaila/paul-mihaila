@@ -9,22 +9,17 @@ I’m a Front-End Developer passionate about creating clean, responsive, and use
 - Git | GitHub
 
 ## 💼 Projects
-### <a href="https://germanistik.ro/" target="_blank">Germanistik.ro</a>
+### [Germanistik.ro](https://germanistik.ro/)
 A professional website for German language education and resources.
 
-### <a href="https://ballancial.ro/ro" target="_blank">Ballancial.ro</a>
+### [Ballancial.ro](https://ballancial.ro/ro)
 An elegant, responsive site for a balance and wellness company.
 
 ### Small Projects
-- <a href="https://css-grid-testimonials-page.vercel.app/" target="_blank">CSS Grid Testimonials Page</a>: A design-focused project showcasing responsive layouts.
-- <a href="https://github.com/paul-mihaila/recipe-page" target="_blank">Recipe Page</a>: A static recipe webpage built with modern web practices.
-- <a href="https://github.com/paul-mihaila/manage-landing-page" target="_blank">Manage Landing Page</a>: A clean landing page for a management tool.
+- [CSS Grid Testimonials Page](https://css-grid-testimonials-page.vercel.app/): A design-focused project showcasing responsive layouts.
+- [Recipe Page](https://elegant-faun-fd3ae4.netlify.app/): A static recipe webpage built with modern web practices.
+- [Manage Landing Page](https://cheerful-starburst-efeb7c.netlify.app/): A clean landing page for a management tool.
 
 ## 📫 Contact
 - [GitHub](https://github.com/paul-mihaila)
 - Email: [paulmihaila98@gmail.com](mailto:aulmihaila98@gmail.com)
-
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
