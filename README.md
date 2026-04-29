@@ -1,14 +1,14 @@
-# Hi, I'm Paul Mihaila 👋
+# Hi, I'm Paul Mihaila
 
-## 🌟 About Me
+## About Me
 I’m a Front-End Developer passionate about creating clean, responsive, and user-friendly web designs. 
 
-## 🚀 Skills
+## Skills
 - HTML | CSS | TailwindCSS
 - JavaScript | Vue.js
 - Git | GitHub
 
-## 💼 Projects
+## Projects
 ### [Germanistik.ro](https://germanistik.ro/)
 A professional website for German language education and resources.
 
@@ -20,5 +20,5 @@ An elegant, responsive site for a balance and wellness company.
 - [Recipe Page](https://elegant-faun-fd3ae4.netlify.app/): A static recipe webpage built with modern web practices.
 - [Manage Landing Page](https://cheerful-starburst-efeb7c.netlify.app/): A clean landing page for a management tool.
 
-## 📫 Contact
+## Contact
 - Email: [paulmihaila98@gmail.com](mailto:aulmihaila98@gmail.com)
